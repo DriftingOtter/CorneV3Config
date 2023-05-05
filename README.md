@@ -13,7 +13,10 @@ My Corne V3 Split-Ergo Keyboard Configuration.
 ## Images Of Keymap Layers
 
 ___Base Layer___
+![alt text](https://github.com/DriftingOtter/CorneV3Config/blob/main/BaseLayer.png)
 
 ___Layer 1___
+![alt text](https://github.com/DriftingOtter/CorneV3Config/blob/main/Layer1.png)
 
 ___Layer 2___
+![alt text](http://url/to/img.png)
